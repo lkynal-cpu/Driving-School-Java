@@ -26,7 +26,7 @@ Replace the `@author Member N` tags with your real names before submitting.
 | 4 | courses              | Member 4                 | Course, Enrollment                             | CourseFullException            | CourseService, EnrollmentService   |
 | 5 | lessons              | Member 5                 | Lesson (abstract), PracticalLesson, TheoryLesson | SchedulingConflictException  | LessonService                      |
 | 6 | fees                 | Member 6                 | Invoice (Payable), Payment                     | OverpaymentException           | InvoiceService, PaymentService     |
-| 7 | tests                | Member 7                 | TestBooking, TestResult                        | NotEligibleForTestException    | TestBookingService, TestResultService |
+| 7 | tests                | Nakito Chucuna Joyce                | TestBooking, TestResult                        | NotEligibleForTestException    | TestBookingService, TestResultService |
 | 8 | maintenance          | Member 8                 | MaintenanceJob, FuelLog                        | JobAlreadyClosedException      | MaintenanceService, FuelService    |
 
 ## Record IDs (all start with the group number)
